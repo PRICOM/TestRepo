@@ -1,4 +1,7 @@
 Hello this is a master text file
 
 
+And now a local change
+
+
 Bob
